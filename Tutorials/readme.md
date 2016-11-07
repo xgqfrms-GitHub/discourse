@@ -10,3 +10,4 @@ https://community.letsencrypt.org/t/which-browsers-and-operating-systems-support
 https://mozilla.github.io/server-side-tls/ssl-config-generator/
 
 
+./certbot-auto --apache -d xgqfrms.xyz
